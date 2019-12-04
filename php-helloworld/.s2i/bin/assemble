@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo " I'm starting my custom assemble script"
+
+/usr/libexec/s2i/assemble 
+
+echo "Done with previous assemble"
+
+
+echo "thank you for assembling with us"
